@@ -1,6 +1,4 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-
-import FeedbackData from "./data/FeedbackData";
 import FeedbackList from "./components/FeedbackList";
 import Header from "./components/Header";
 import FeedbackStats from "./components/FeedbackStats";
